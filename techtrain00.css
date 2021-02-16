@@ -1,0 +1,20 @@
+.whitebox{
+    background-color:whitesmoke;
+    width: 25%;
+    height: 22rem;
+    padding-left:3.5rem;
+    padding-top:2rem ;
+}
+
+.firstline{
+    font-family:'Franklin Gothic Medium';
+}
+
+.secondline{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.thirdline{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
